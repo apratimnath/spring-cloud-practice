@@ -1,0 +1,9 @@
+[submodule "spring-cloud-config"]
+	path = spring-cloud-config
+	url = https://github.com/apratimnath/spring-cloud-config.git
+[submodule "spring-cloud-config-server"]
+	path = spring-cloud-config-server
+	url = https://github.com/apratimnath/spring-cloud-config-server.git
+[submodule "spring-cloud-config-client"]
+	path = spring-cloud-config-client
+	url = https://github.com/apratimnath/spring-cloud-config-client.git
